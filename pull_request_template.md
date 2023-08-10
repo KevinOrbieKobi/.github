@@ -1,5 +1,8 @@
 ## Changes
 Please describe your changes here.
+- Change 1
+- Change 2
+- etc.
 
 ## Checklist
 <!-- To check one of the boxes below, replace '[ ]' with '[x]' -->
@@ -14,10 +17,16 @@ Testing Checks (see [testing guidelines](https://bosch-pt.atlassian.net/wiki/spa
 
 ## Tests
 Please describe tests you ran, not mentioned in the checklist above.
+- Test 1
+- Test 2
+- etc.
 
 ## Notes
 <!-- You can delete this section if not used -->
 Add notes here if needed.
+- Note 1
+- Note 2
+- etc.
 
 ## Related PR's
 <!-- Collect the links to all related PR's (including the current repo PR) here, and copy to all other PR's -->
