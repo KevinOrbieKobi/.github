@@ -15,6 +15,10 @@ Testing Checks (see [testing guidelines](https://bosch-pt.atlassian.net/wiki/spa
 ## Tests
 Please describe tests you ran, not mentioned in the checklist above.
 
+## Notes
+<!-- You can delete this section if not used -->
+Add notes here if needed.
+
 ## Related PR's
 <!-- Collect the links to all related PR's (including the current repo PR) here, and copy to all other PR's -->
 <!-- Delete all what is not relevant from list below -->
